@@ -14,9 +14,7 @@
 
 ​		c)ip是int指针，ip2是int变量
 
-​	[2.35](https://github.com/SiberiaHLY/HDU_cppPrimerPractice/blob/master/src/chapter2/2_35.cpp):
-
-​		j是int变量，k是常量int引用，p是常量int指针，j2是常量int，k2是常量int引用
+​	[2.35](https://github.com/SiberiaHLY/HDU_cppPrimerPractice/blob/master/src/chapter2/2_35.cpp):j是int变量，k是常量int引用，p是常量int指针，j2是常量int，k2是常量int引用
 
 ### Chapter3:
 
@@ -27,6 +25,8 @@
 ​	[3.20](https://github.com/SiberiaHLY/HDU_cppPrimerPractice/blob/master/src/chapter3/3_20.cpp):简单的使用迭代器遍历
 
 ### Chapter6:
+
+​	[6.10](https://github.com/SiberiaHLY/HDU_cppPrimerPractice/blob/master/src/chapter6/6_10.cpp):编写使用指针形参的函数：交换两个整数
 
 ### Chapter7:
 
