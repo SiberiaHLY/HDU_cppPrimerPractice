@@ -28,5 +28,23 @@
 
 ​	[6.10](https://github.com/SiberiaHLY/HDU_cppPrimerPractice/blob/master/src/chapter6/6_10.cpp):编写使用指针形参的函数：交换两个整数
 
+​	6.19:
+
+​		a)函数只有一个参数，传入两个，所以不合法
+
+​		b)合法
+
+​		c)合法
+
+​		d)合法
+
+​	6.39:
+
+​		a)顶层const不影响传入的对象，所以第二个函数和第一个函数是等价的
+
+​		b)函数重载需要传入的参数不一样，函数返回值不一样不能重载
+
+​		c)合法
+
 ### Chapter7:
 
