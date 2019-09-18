@@ -14,6 +14,10 @@
 
 ​		c)ip是int指针，ip2是int变量
 
+​	[2.35](https://github.com/SiberiaHLY/HDU_cppPrimerPractice/blob/master/src/chapter2/2_35.cpp):
+
+​		j是int变量，k是常量int引用，p是常量int指针，j2是常量int，k2是常量int引用
+
 ### Chapter3:
 
 ​	[3.4](https://github.com/SiberiaHLY/HDU_cppPrimerPractice/blob/master/src/chapter3/3_4.cpp):简单的string输入输出与size()方法的使用
