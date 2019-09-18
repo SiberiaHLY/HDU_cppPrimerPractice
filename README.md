@@ -48,3 +48,17 @@
 
 ### Chapter7:
 
+​	7.16:没有限定;构造函数和部分成员函数紧跟在public说明符后而数据成员和作为实现部分的函数跟在private说明符后
+
+​	[7.27](https://github.com/SiberiaHLY/HDU_cppPrimerPractice/blob/master/src/chapter7/7_27.cpp):
+
+​	7.49:
+
+​		a)合法
+
+​		b)Sales_data&不能转换成Sales_data
+
+​		c)同上同理
+
+​	7.58:类的静态成员不应该在类的内部初始化，所以类内部的rate与vec是错误的。最后两行中，需要给rate与vec初始值
+
