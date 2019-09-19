@@ -50,7 +50,9 @@
 
 ​	7.16:没有限定;构造函数和部分成员函数紧跟在public说明符后而数据成员和作为实现部分的函数跟在private说明符后
 
-​	[7.27](https://github.com/SiberiaHLY/HDU_cppPrimerPractice/blob/master/src/chapter7/7_27.cpp):
+​	[7.27](https://github.com/SiberiaHLY/HDU_cppPrimerPractice/blob/master/src/chapter7/7_27.cpp):我将类的声明，定义与main函数分开。在类的声明中声明了Screen的基本属性、构造函数以及题目需求的三个函数，在main函数中编写题目所给的代码，并且在控制台中打印出如下字符串
+
+![](https://github.com/SiberiaHLY/HDU_cppPrimerPractice/tree/master/src/chapter7/picture1.png)
 
 ​	7.49:
 
