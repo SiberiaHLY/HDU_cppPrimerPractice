@@ -1,4 +1,4 @@
-# 此仓库仅为完成C++面向对象程序设计而设立
+# 此项目为C++面向对象程序设计课程作业
 
 ### Chapter2:
 
@@ -52,7 +52,7 @@
 
 ​	[7.27](https://github.com/SiberiaHLY/HDU_cppPrimerPractice/blob/master/src/chapter7/7_27.cpp):我将类的声明，定义与main函数分开。在类的声明中声明了Screen的基本属性、构造函数以及题目需求的三个函数，在main函数中编写题目所给的代码，并且在控制台中打印出如下字符串
 
-![](https://github.com/SiberiaHLY/HDU_cppPrimerPractice/tree/master/src/chapter7/picture1.png)
+![](https://raw.githubusercontent.com/SiberiaHLY/HDU_cppPrimerPractice/master/src/chapter7/picture1.png)
 
 ​	7.49:
 
