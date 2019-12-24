@@ -12,8 +12,11 @@ int main() {
     std::vector<std::pair<std::string, int>> v;
     std::string tempstr;
     int tempint;
-    while (std:: cin >> tempstr && cin >> std::tempint) {
-        v.push_back()
+    while (std::cin >> tempstr && std::cin >> tempint) {
+        v.push_back(std::pair<std::string, int>(tempstr, tempint));
+    }
+    for (const auto &i : v) {
+        std::cout << i.first << " " << i.second << std::endl;
     }
     return 0;
 }
