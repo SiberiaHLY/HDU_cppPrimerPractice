@@ -74,37 +74,37 @@
 
 ​		c)vector适合高效的访问，用于排序比list和deque合适
 
-​	9.20：遍历list，判断奇偶性，加入队列中
+​	[9.20](https://github.com/SiberiaHLY/HDU_cppPrimerPractice/blob/master/src/chapter9/9_20.cpp)：遍历list，判断奇偶性，加入队列中
 
 ​	9.29：vec.resize(100)会把vec的空间扩展到100大小，也就是在vec末尾添加75个元素。vec.resize(10)会只留下前十个元素
 
-​	9.43：遍历字符串，检查老字符串中是否有与oldval相同的子串，如果有的话就需替换
+​	[9.43](https://github.com/SiberiaHLY/HDU_cppPrimerPractice/blob/master/src/chapter9/9_43.cpp)：遍历字符串，检查老字符串中是否有与oldval相同的子串，如果有的话就需替换
 
 ​	9.52：
 
 ### Chapter10：
 
-​	10.3：输入直至文件结束，使用accumulate求和
+​	[10.3](https://github.com/SiberiaHLY/HDU_cppPrimerPractice/blob/master/src/chapter10/10_3.cpp)：输入直至文件结束，使用accumulate求和
 
-​	10.15：简单的使用lambda进行加法
+​	[10.15](https://github.com/SiberiaHLY/HDU_cppPrimerPractice/blob/master/src/chapter10/10_15.cpp)：简单的使用lambda进行加法
 
-​	10.34：使用迭代器逆向输出vector内的值
+​	[10.34](https://github.com/SiberiaHLY/HDU_cppPrimerPractice/blob/master/src/chapter10/10_34.cpp)：使用迭代器逆向输出vector内的值
 
-​	10.42：list去重，先用sort按字典序进行排序，然后使用unique去重
+​	[10.42](https://github.com/SiberiaHLY/HDU_cppPrimerPractice/blob/master/src/chapter10/10_42.cpp)：list去重，先用sort按字典序进行排序，然后使用unique去重
 
 ### Chapter11：
 
-​	11.12：使用pair的first与second
+​	[11.12](https://github.com/SiberiaHLY/HDU_cppPrimerPractice/blob/master/src/chapter11/11_12.cpp)：使用pair的first与second
 
 ​	11.17：将vector中的元素复制到set是非法的，而将ser中的元素复制到vector是合法的，所以前两个是合法的，后两个是非法的。
 
-​	11.38：使用map建立映射来统计单词出现的数量
+​	[11.38](https://github.com/SiberiaHLY/HDU_cppPrimerPractice/blob/master/src/chapter11/11_38.cpp)：使用map建立映射来统计单词出现的数量
 
 ### Chapter13：
 
 ​	13.12：首先，函数结束时，item1和item2的析构函数被调用，之后，参数accum的生命周期也结束，又会被调用一次，所以一共有3次
 
-​	13.18：编写拷贝构造函数
+​	[13.18](https://github.com/SiberiaHLY/HDU_cppPrimerPractice/blob/master/src/chapter13/13_18.cpp)：编写拷贝构造函数
 
 ​	13.46：左值可以获取到地址，而右值不能。r1是右值引用，f返回值是右值，r2是左值引用，因为下标返回的是左值，r3是左值引用，因为r1是变量，为左值，r4是右值引用，因为算术表达式为右值。	
 
